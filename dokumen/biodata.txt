@@ -1,4 +1,5 @@
 Judul:Aplikasi Pengelolaan Laundry
 Nama:Dila NUralifia
 Kelas:XII RPL 2
-link g
+link github:https://github.com/Dilaalifia3/ujikomdila
+hosting:https//laundrydill.000webhostapp.com
